@@ -3,6 +3,6 @@
 
 🌱 I’m a full stack software engineer
 
-📫 How to reach me: movsesgasamanyan@gmail.com
+📫 Reach out if you'd like to collaborate on a project! movsesgasamanyan@gmail.com
 
 ⚡ Fun fact: I love to play chess! 
